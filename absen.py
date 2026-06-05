@@ -32,6 +32,9 @@ daftar_guru = [
     'Veronika Lepan Buran Keban, S.Pd.', 
     'Visensia Selviana Horowura, S.Pd.', 
     'Yohanes Juang Saso Assan, S.Pd.'
+    'Yohanes Maria Vianey, S.E.', 
+    'Kristina Setya Oreng Ola, S.M.', 
+    'Junior Timu Meong.'
 ]
 
 data_absensi = []
