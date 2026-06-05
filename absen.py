@@ -17,11 +17,21 @@ st.info(f"Mencatat Absensi untuk tanggal: **{format_tanggal}**")
 
 # Daftar Guru dari file "Untitled spreadsheet (1).xlsx"
 daftar_guru = [
-    'Agnes Beata Lewomuda', 'Anania Kartini Beni', 'FATMAWATI KASIM', 
-    'Ferdinandus Payong Geli', 'Flasidius Henimus Ngaga', 'Lintiana Bte Serilus', 
-    'Marselinus Dalo Wara', 'Regina R', 'Rikardus Kopong Boli', 'Rusini Usman', 
-    'Rusmini Saputri', 'Veronika Lepan Buran Keban', 'Visensia Selviana Horowura', 
-    'Yohanes Juang Saso Assan'
+    'Sabililah Pata Ola, S.Pd.',
+    'FATMAWATI KASIM, S.S.', 
+    'Ferdinandus Payong Geli, S.Pd.',
+    'Agnes Beata Lewomuda, S.Pd.', 
+    'Anania Kartini Beni, S.Pd.', 
+    'Flasidius Henimus Ngaga, S.Pd.', 
+    'Lintiana Bte Serilus, S.Pd.', 
+    'Marselinus Dalo Wara, S.Pd.', 
+    'Regina R, S.Pd.', 
+    'Rikardus Kopong Boli, S.Pd.', 
+    'Rusini Usman, S.Pd.', 
+    'Rusmini Saputri, S.Pd.', 
+    'Veronika Lepan Buran Keban, S.Pd.', 
+    'Visensia Selviana Horowura, S.Pd.', 
+    'Yohanes Juang Saso Assan, S.Pd.'
 ]
 
 data_absensi = []
